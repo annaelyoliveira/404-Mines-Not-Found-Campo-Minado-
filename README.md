@@ -17,14 +17,6 @@ Criar uma aplicação que simula o jogo Campo Minado, utilizando estruturas de m
   - Recursividade
   - Manipulação de entrada/saída
 
-## Como Jogar
-
-1. Execute o script `404_mines_not_found.py`
-2. Escolha a opção "1. Jogar Campo Minado"
-3. Digite as coordenadas (linha e coluna) que deseja revelar no formato:  
-Exemplo: `3 4`
-4. O objetivo é revelar todas as células **sem minas** para vencer o jogo.
-
 ## Regras do Jogo
 
 - Se você revelar uma **mina (💣)**, o jogo acaba.
@@ -35,5 +27,5 @@ Exemplo: `3 4`
 ### Início do jogo
 ![7bf5455a-e911-424c-a7a9-f2c77e9892c5](https://github.com/user-attachments/assets/e22e7796-dfaa-441c-8b67-6eeb247838ae)
 
-### Tela caso usuário pise em uma mina
+### Tela caso usuário pise em uma mina e opção 3
 ![05614c6f-72df-4a2b-8753-0b2d7ed8639b](https://github.com/user-attachments/assets/b816e236-d717-4333-9463-45a65f7b2243)
