@@ -31,5 +31,9 @@ Exemplo: `3 4`
 - Se você revelar uma célula com **0 minas ao redor**, ela e suas vizinhas também são reveladas automaticamente.
 - Você vence ao revelar todas as células seguras do tabuleiro.
 
-## Exemplo de Execução
+## Exemplo de Execução 
+### Início do jogo
+![7bf5455a-e911-424c-a7a9-f2c77e9892c5](https://github.com/user-attachments/assets/e22e7796-dfaa-441c-8b67-6eeb247838ae)
 
+### Tela caso usuário pise em uma mina
+![05614c6f-72df-4a2b-8753-0b2d7ed8639b](https://github.com/user-attachments/assets/b816e236-d717-4333-9463-45a65f7b2243)
